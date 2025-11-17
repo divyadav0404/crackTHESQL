@@ -1,4 +1,4 @@
--- sql schema
+-- sql schema 
 
 Create table If Not Exists Customer (customer_id int, product_key int)
 Create table Product (product_key int)
@@ -68,7 +68,8 @@ Product table:
 Output: 
 +-------------+
 | customer_id |
-+-------------+
++-------------+ -- test update
+
 | 1           |
 | 3           |
 +-------------+
