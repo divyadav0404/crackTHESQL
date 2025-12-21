@@ -1,7 +1,7 @@
 # 🧠 crackTHESQL
 
 Curated **SQL interview questions and solutions** for quick revision and practice.  
-This repo covers all important query patterns asked in tech interviews.
+This repo covers all important query patterns asked in techical interviews.
 
 ---
 
